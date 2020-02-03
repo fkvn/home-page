@@ -1,4 +1,4 @@
-# home-page-v2
+# home-page
 
 ## Project setup
 ```
